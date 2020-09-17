@@ -1,0 +1,23 @@
+.map{
+    height: 100vh;
+}
+
+.LoginForm{
+    max-width: 240px;
+    margin: auto;
+    height: 100%;  
+  }
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+  }
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+
